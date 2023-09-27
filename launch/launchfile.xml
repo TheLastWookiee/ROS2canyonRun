@@ -1,0 +1,5 @@
+<launch>
+
+	<node pkg="canyonProblem" exec="canyonSolution" name="canyonSolution" namespace="caiden"/>
+	
+</launch>
